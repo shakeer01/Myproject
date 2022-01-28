@@ -1,0 +1,20 @@
+From 89b65782e85dbe7666d7bb4c3656f02d509810fb Mon Sep 17 00:00:00 2001
+From: root <root@ip-172-31-88-171.ec2.internal>
+Date: Fri, 28 Jan 2022 02:23:46 +0000
+Subject: [PATCH] shaik adding first script
+
+---
+ hey.sh | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hey.sh
+
+diff --git a/hey.sh b/hey.sh
+new file mode 100644
+index 0000000..77ded9c
+--- /dev/null
++++ b/hey.sh
+@@ -0,0 +1 @@
++ hi shaik come on man....!
+-- 
+2.25.1
+
